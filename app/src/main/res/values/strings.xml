@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Radio Player</string>
+    <string name="banner_home_footer"></string>
+    <string name="interstitial_full_screen"></string>
+
+    <string name="radio_description">description</string>
+
+    <string name="action_info">Info</string>
+</resources>
